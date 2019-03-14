@@ -1,0 +1,8 @@
+{
+  "name": "beeview",
+  "version": "1.0.0",
+  "description": "Environment For Develop UI",
+  "main": "index.js",
+  "author": "Kim Long",
+  "license": "MIT"
+}
