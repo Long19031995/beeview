@@ -4,5 +4,8 @@
   "description": "Environment For Develop UI",
   "main": "index.js",
   "author": "Kim Long",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "beeview": "index.js"
+  }
 }
